@@ -29,7 +29,7 @@ emailext body: '''hello Team,
 
 Trust you are well. this is just a quick update - build is done.
 
-Aren\'s Software solution
+Aren\'s Software solutions
 
 ''', subject: 'build status', to: 'arenkester1@gmail.com'
   }
